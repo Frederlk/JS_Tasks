@@ -20,4 +20,4 @@ function isStringRotated(source, test) {
 
 console.log(isStringRotated("javascript", "scriptjava")); // -> true
 console.log(isStringRotated("javascript", "iptjavascr")); // -> true
-console.log(isStringRotated("javascript", "java")); // -> falses
+console.log(isStringRotated("javascript", "java")); // -> false
